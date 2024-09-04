@@ -1,0 +1,12 @@
+package com.workwell;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class WorkWellApp {
+
+	    public static void main(String[] args) {
+	        SpringApplication.run(WorkWellApp.class, args);
+	    }
+	}
+
